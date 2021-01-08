@@ -1,4 +1,4 @@
-# front-end-developer-position-braga-portugal
+# front-end-developer-position-remote-portugal
 
 ## About us
 eSolidar.com is an online charitable giving marketplace that provides different funding tools for causes and social projects. Charities and individual causes can register and raise funds (donations, charity auctions, crowdfunding, and online shopping) while also raising awareness. Anyone can register, explore and contribute to campaigns/causes.
@@ -40,7 +40,7 @@ We are looking for an experienced Front-End Web Developer who is motivated to co
 - Basic knowledge of image authoring tools, to be able to crop, resize, or perform small adjustments on an image. Familiarity with tools such as Gimp or Photoshop is a plus;
 
 ## What do we offer?
-- Full-time position, working from our facilities in the city of Braga;
+- Full-time position remote;
 - Salary adequate to experience and quality of work;
 - Flexible schedule and partial remote days available;
 - Above-average food allowance;
