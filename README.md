@@ -5,8 +5,6 @@ eSolidar.com is an online charitable giving marketplace that provides different 
 
 A company can also manage its social responsibility together with its employees and community (partners, clients, etc) at business.eSolidar.com. This is a SaaS platform that allows businesses to increase their social impact, talent retention and visibility through charitable giftcards for employees/clients, corporate volunteering and impact analysis. More about its value proposition here: https://www.linkedin.com/pulse/can-social-impact-become-best-catalyst-employee-marco-barbosa
 
-We’re also working on a new technology (blockchain) that solves some of the industry's biggest problems, such as lack of transparency and trust in charities while removing intermediaries making the relationship funder-beneficiary much more efficient, engaging and with reduced costs. More @ impactMarket.com
-
 ## About the Role
 We are looking for an experienced Front-End Web Developer who is motivated to combine the art of design with the art of programming. Responsibilities will include translation of the UI/UX design wireframes to actual code that will produce visual elements of the application. You will work with the UI/UX designer and bridge the gap between graphical design and technical implementation, taking an active role on both sides and defining how the application looks as well as how it works.
 
